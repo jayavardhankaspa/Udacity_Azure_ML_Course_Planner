@@ -2,7 +2,7 @@
 
 This is a repository supporting the **50 days of udacity challenge**. 
 
-The excel workbook **50_days_of_Azure** is designed to help the students plan and schedule events on their calendars to help them keep a track of their progress.
+The excel workbook **50_DAYS_OF_AZURE** is designed to help the students plan and schedule events on their calendars to help them keep a track of their progress.
 
 > Being persistent is difficult, but planning things ahead will help you be persistent. Happy Learning!
 
